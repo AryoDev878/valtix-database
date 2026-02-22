@@ -2,6 +2,13 @@
   "history": [
     {
       "username": "ryo",
+      "type": "login",
+      "ip": "::ffff:114.10.39.5",
+      "timestamp": "2026-02-22T06:19:58.539Z",
+      "id": "hist_1771741198807_5p7rbe29"
+    },
+    {
+      "username": "ryo",
       "type": "coin_add",
       "amount": 300,
       "reason": "Redeem code: RYO90",
@@ -32,7 +39,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-22T06:18:22.467Z",
-    "totalEntries": 4
+    "lastUpdated": "2026-02-22T06:19:58.807Z",
+    "totalEntries": 5
   }
 }
