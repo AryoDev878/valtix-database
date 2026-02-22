@@ -2,6 +2,14 @@
   "history": [
     {
       "username": "ryo",
+      "type": "coin_add",
+      "amount": 300,
+      "reason": "Redeem code: RYO90",
+      "timestamp": "2026-02-22T06:18:22.176Z",
+      "id": "hist_1771741102467_lxcpecim"
+    },
+    {
+      "username": "ryo",
       "type": "login",
       "ip": "::ffff:114.10.39.5",
       "timestamp": "2026-02-22T06:17:42.166Z",
@@ -24,7 +32,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-22T06:17:42.437Z",
-    "totalEntries": 3
+    "lastUpdated": "2026-02-22T06:18:22.467Z",
+    "totalEntries": 4
   }
 }
