@@ -1,0 +1,12 @@
+{
+  "history": [
+    {
+      "id": "tx_001",
+      "username": "www",
+      "type": "bug_sent",
+      "amount": 1,
+      "target": "628123456789",
+      "timestamp": "2024-01-20T15:30:00Z"
+    }
+  ]
+}
