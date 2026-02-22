@@ -1,0 +1,11 @@
+{
+  "stats": [
+    {
+      "username": "www",
+      "coins": 999999,
+      "bugsSent": 1500,
+      "ddosAttacks": 50,
+      "lastUpdate": "2024-01-20T15:30:00Z"
+    }
+  ]
+}
