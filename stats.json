@@ -9,13 +9,13 @@
     },
     {
       "username": "ryo",
-      "coins": 0,
+      "coins": 300,
       "bugsSent": 0,
       "ddosAttacks": 0,
-      "lastUpdate": "2026-02-22T06:14:40.409Z"
+      "lastUpdate": "2026-02-22T06:18:21.556Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-22T06:14:40.409Z"
+    "lastUpdated": "2026-02-22T06:18:21.556Z"
   }
 }
