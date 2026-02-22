@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "username": "www",
+      "password": "x",
+      "role": "owner",
+      "expiredDate": "9999-12-31",
+      "createdAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+}
