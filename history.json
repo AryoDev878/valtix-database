@@ -4,6 +4,13 @@
       "username": "ryo",
       "type": "login",
       "ip": "::ffff:114.10.39.1",
+      "timestamp": "2026-02-22T14:16:50.508Z",
+      "id": "hist_1771769810782_o8kcicxz"
+    },
+    {
+      "username": "ryo",
+      "type": "login",
+      "ip": "::ffff:114.10.39.1",
       "timestamp": "2026-02-22T09:50:46.007Z",
       "id": "hist_1771753846683_bg80ilsf"
     },
@@ -66,7 +73,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-22T09:50:46.683Z",
-    "totalEntries": 9
+    "lastUpdated": "2026-02-22T14:16:50.782Z",
+    "totalEntries": 10
   }
 }
