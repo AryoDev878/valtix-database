@@ -1,6 +1,13 @@
 {
   "history": [
     {
+      "username": "www",
+      "type": "login",
+      "ip": "::ffff:114.10.39.5",
+      "timestamp": "2026-02-22T06:13:47.670Z",
+      "id": "hist_1771740828396_fzuejowf"
+    },
+    {
       "id": "tx_001",
       "username": "www",
       "type": "bug_sent",
@@ -8,5 +15,9 @@
       "target": "628123456789",
       "timestamp": "2024-01-20T15:30:00Z"
     }
-  ]
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-22T06:13:48.396Z",
+    "totalEntries": 2
+  }
 }
