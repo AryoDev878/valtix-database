@@ -6,6 +6,16 @@
       "bugsSent": 1500,
       "ddosAttacks": 50,
       "lastUpdate": "2024-01-20T15:30:00Z"
+    },
+    {
+      "username": "ryo",
+      "coins": 0,
+      "bugsSent": 0,
+      "ddosAttacks": 0,
+      "lastUpdate": "2026-02-22T06:14:40.409Z"
     }
-  ]
+  ],
+  "metadata": {
+    "lastUpdated": "2026-02-22T06:14:40.409Z"
+  }
 }
