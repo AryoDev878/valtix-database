@@ -9,17 +9,17 @@
     },
     {
       "username": "ryo",
-      "password": "0",
+      "password": "000000",
       "role": "member",
       "expiredDate": "2026-03-01",
       "createdBy": "www",
       "createdAt": "2026-02-22T06:14:39.078Z",
-      "updatedAt": "2026-02-22T06:14:39.078Z"
+      "updatedAt": "2026-02-22T06:21:42.564Z"
     }
   ],
   "metadata": {
     "version": "1.0",
-    "lastUpdated": "2026-02-22T06:14:39.078Z",
+    "lastUpdated": "2026-02-22T06:21:42.564Z",
     "totalUsers": 2
   }
 }
