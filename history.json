@@ -1,6 +1,13 @@
 {
   "history": [
     {
+      "username": "ryo",
+      "type": "login",
+      "ip": "::ffff:114.10.39.5",
+      "timestamp": "2026-02-22T06:17:42.166Z",
+      "id": "hist_1771741062437_25qsasde"
+    },
+    {
       "username": "www",
       "type": "login",
       "ip": "::ffff:114.10.39.5",
@@ -17,7 +24,7 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-22T06:13:48.396Z",
-    "totalEntries": 2
+    "lastUpdated": "2026-02-22T06:17:42.437Z",
+    "totalEntries": 3
   }
 }
