@@ -13,9 +13,16 @@
       "bugsSent": 0,
       "ddosAttacks": 0,
       "lastUpdate": "2026-02-22T06:18:21.556Z"
+    },
+    {
+      "username": "user7967948745",
+      "coins": 0,
+      "bugsSent": 0,
+      "ddosAttacks": 0,
+      "lastUpdate": "2026-03-01T09:58:36.885Z"
     }
   ],
   "metadata": {
-    "lastUpdated": "2026-02-22T06:18:21.556Z"
+    "lastUpdated": "2026-03-01T09:58:36.885Z"
   }
 }
