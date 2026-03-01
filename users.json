@@ -15,11 +15,21 @@
       "createdBy": "www",
       "createdAt": "2026-02-22T06:14:39.078Z",
       "updatedAt": "2026-02-22T06:21:42.564Z"
+    },
+    {
+      "username": "user7967948745",
+      "password": "user7967948745841",
+      "role": "member",
+      "expiredDate": "2026-03-31",
+      "telegramId": 7967948745,
+      "createdBy": "telegram_bot",
+      "createdAt": "2026-03-01T09:58:36.012Z",
+      "updatedAt": "2026-03-01T09:58:36.012Z"
     }
   ],
   "metadata": {
     "version": "1.0",
-    "lastUpdated": "2026-02-22T06:21:42.564Z",
-    "totalUsers": 2
+    "lastUpdated": "2026-03-01T09:58:36.012Z",
+    "totalUsers": 3
   }
 }
